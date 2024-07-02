@@ -1,0 +1,67 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"76438be8fe3b53f012a413226de076d68ed35ebcd831e4196a88deb9df4f70cb\"",
+      "data": "H4sIANFkg2YC/+1Xa2/bNhT9K4K+rrYelm3JQFE08zpkgGNkU9LN7WBQEiOro0SBpJzZRv77Lkn5ESdzF8X5NAECDF/dey55SB3yfNmYFSPmyDAXQpR8ZFmozLppJhZV1I1pbjFcUm6Fl7/dFBktrAuMS4gRjDjmluf3bc8ZOuY7w0ScY8HnZ0CzNJQErUpCUXIMqqO8KfDmQ4Fy/I6gCJMH2WUhcnLc4wD7X1AFSq2l03W6tsTIEqjeNpJ0VGJBGcQ2JqFpVkjsT4gQXHQuGEZisSty/WDo+/YA/hc0wXMVNCfj68Ht71ck/nbpTcPYm44/uormJRKIPaFZRbeMVByzmBYCF0JNoLK2PT4s33sSJWU1jm6mqD65cBKSW08m8B3mnuTfUULoPUDNX9zO2tXugbIibQwEtRuLigUGMiFJbYQ046LJ0FTdRv0AowqKA7sMJw3A6koY3H0B49qova0xq4jHLCsFbMYmw3xULwEpS1GRrVFTQKhXOOrra1Cv6iQAXsJebYKgCzdWybIlilcPejQxzpbAfWPUIwQJKlYllig3kK7WIhN4jpJcfdl3iHD8cPwBx4Ob/JbPPn9az8Jr7yr8aE/C+G8FhtK51CCZt5cQWPcUizkMKs9ExhfybY640A23+VKEjH1RwtCd2A4B/pcM1wp1EIzltGA6SGaaru06HdvvuIPQ6Y28YNS3ZxKqrCICbZ/N80a2M+r7s73SQ8aXVx0eGsbyej0vcFx/L6J14JjOn1ZT8guJfr5dxO7tRdy7Isn4ej1ZX/cn4aV3TFFHU9TN40TRp9QeXhYVIbuDBbcC3Qp0K9D/I4Guv7r5NhuVJclixa9FY4FFhwtokdc7RKikWiwSDbuWMWc4HEr1hS2gbqgxrQopml7fC04KrhJSL5jp221yKquW5YjRe5jTfNfrxTfVbWV9XbWe6OPDn/r4iYDkBjf4uvLgNrzOyoZYdeUBVkSTlQTpGDclyCKsgyGoMflx/Kvhdp0fjAgLOCINwVDBiVpJQwp6/JV9LUxY81c6HNft9YLBuRyORnsDh/MI+LwOx37kcHSj1uG0B2h7gLYO59DhTL5dwnX8L/cZh2O/xOG81tY4odMf9ZyRMzxta3QePMFb2Bo3GAS+Pji0ctaB/2RrVtPwj/50rLk8tjV2a2taVW5VuVXlt7A1dv85W+N4jvM9wYVncMrW7LL8N7A19oGtsc9va+wz2hr7sa2pp2PcUbY1NbZRkgq024AVRKDiFYap/AP7VFOPqhkAAA==",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAOyo8WUC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "43349128": {
+      "meta": {
+        "schema_version": 4,
+        "id": "beep",
+        "name": "Beep",
+        "version": "1.1.0",
+        "link": "https://github.com/TISUnion/Beep",
+        "authors": [
+          "Fallen_Breath",
+          "LucunJi"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Use @ <someone> to ping someone, @ all for everyone. Use @@ for a pogger ping",
+          "zh_cn": "@某人，@ all可作用于所有玩家。使用两个@@小心被打"
+        }
+      },
+      "size": 1777,
+      "hash_md5": "fcaf9d2fc91c62acdd3ae357d346da95",
+      "hash_sha256": "c6f3aae078935925f6cc1928d261e21cbaabe45f4d46cc1c63d6b51522609c47"
+    },
+    "42969896": {
+      "meta": {
+        "schema_version": 4,
+        "id": "beep",
+        "name": "Beep",
+        "version": "1.0.0",
+        "link": "https://github.com/TISUnion/Beep",
+        "authors": [
+          "Fallen_Breath",
+          "LucunJi"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Use @ <someone> to ping someone, @ all for everyone. Use @@ for a pogger ping",
+          "zh_cn": "@某人，@ all可作用于所有玩家。使用两个@@小心被打"
+        }
+      },
+      "size": 1705,
+      "hash_md5": "52825bf281900e27c04599947e81634f",
+      "hash_sha256": "6d1d42a7c04ee603bd3a4f9789a5ed9cac8cb8dc7a8f10fac38f46e7fa59f01c"
+    }
+  },
+  "repos_info": {
+    "etag": "\"34c3fbcb241b6b1d920ab0b75d32015822f9a9fe36153b2f38329257c212d83e\"",
+    "data": "H4sIAOuo8WUC/+1YbW/bNhD+K4a/Lo5kx0lrY127IVvRAWn2kgFdhkGgpLPFmiI1krLrCP7vO1LUmxN0Mb8NyIem1pHPw+PxeC+sxjQdL0fTq3B6dRWGi7PRmIsUIisd31z/uLtlP7Pk/eKBfPptm/DNl4+fv8d/f+5urjdvxmY6ycHM/QGgMN+rkrGoEd59+P0PTgUPmtFC0i3RZmxFmAKUiB0Hid/VmIk15X2UAVhF5pfz2Tx8/Vi7/e1msb+f/VSST0WWvmfb+POv04/XH8Kb6/WlgRNcjciolMwgMq0LtQyCWqrO11RnZVwqkIngGrg+T0QelEGz3tvtm7lhWUvHUy9sRMeMBXVsNQVSqqC/j0zn7FiNHqA/dSUYEzskiE5ZJGhhHQflax8OhFWB0Bmg4XD8YE1AlT5RIQup7H9oOMui0IgS0tN4HAhVMq5yqAIJhajpylglkhYap52o3ABquIRcE04fiAcXQi2F0etEqIUYLGzR/U4E15gqsJcq2R9qHRKgWzSxD+ER2PDpfWFv8m3PPNb0VENE0tzeWHuXD8/38jYcpNAegoHEKFajXQZ8pEQOgsOIqhHlW8FQK/wxIqNAA2MjIUfvvjVR5rtR7e5y04spX9+0tfljXQzHf9nrCWhgcYZgA3sfvIFV5m9zSRK8hCQWkmghfQgH+Grwafk1kNyH1+JsLBPCy1IWZ4O6UiU8z0Of4rFw1bo/L/PYRSlvys7hiVJ0zQF8WFpsFbSBM5aEJ5kXXQOt3K/69Mja6/BIHaNiJmIfPA4HFlsFKiMuJejIUxvDZqBDMgkrXzID7ci09Ds/q5a059dQYfLReJY+bA00qBoyRvi6JGsvthbb5NE1eQDpqZcD19GGa0nj0jvYdPBeSo49VevQx/ndn61ochbOy6n226VFDt3Vn8742SNKI/CMXg10EAvrIOuG/KPsk9yuXPZ1GAMNqm8KorNm6wWR4LdzgwyqmGAFcn5+XmVA6jSag/S7aTXQ5gKZZFgPeXBUDRSrg5xoW7SurFopVrFMkNRHsxbbnq9/+hycZ4FNmw+VxQ2YcspAaazcvCzfggecXGi6osmzSvOnaAf46q2iPIEzwtgZuo6mCUU/xJbHRegYmF94NkBUG2tSV4gzIH6Jo4FWgasIUyiY2PtGhx7aXjYJ2IGnEdGGZxZOX0+ms0l4cRculhfT5Ty8t/1tkQ5mzS4m4avJbH43vVxeLJazxX3tNyrrT5pOwsVkNrsL58vw1fLi6r6JlU5r/PmVjsBsxIZ9lfUA77rpyyenJww95rldR7vGlp/SqGTYjhSYfXE+R5+3DdCD+ZpdDtNxIkpurDFH8Y5oLN+OhE0eNyv/steZex4gKqrvJcq1LMHJCik+Q6KPpF0cGIh3dEOP4LZg6BojC6YqKbFQNX1vN1J3P42iM3uTpRTN04nbtItqaQ+IdCRmA5EogLvdtIyh2TpNgKueDYl5bTAhcoP3r9OcqkhDXrDhQ9EOYpdyI1Nli9UKC8Z/SioHa2tR0MRs7K+/8WtLFY0po3pvzF2UMarQ9npunz1tnZ7NubkTS2FFSqajugg3RDlRGqS9ACBz2hqzGg86YmNEQrkmA5G5M32FJa29oRtnzNniYLu1vIhqF9diA7x5gMIz1CI3DoI6aGqVrw5HDxkv72ov72ov72r//3c1DnqHIWsQn/udViOfHv4Fr8Fta9EXAAA="
+  }
+}

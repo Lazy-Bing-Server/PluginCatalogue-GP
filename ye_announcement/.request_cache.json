@@ -1,0 +1,63 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"dbe2f083fb58a95e6b32ae2a4fe82e6bc14a7feda4f5b40ca946dfda1d41a0a6\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAL2BBWYC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "158890499": {
+      "meta": {
+        "schema_version": 4,
+        "id": "ye_announcement",
+        "name": "Ye_announcement",
+        "version": "1.3.0",
+        "link": "https://github.com/XiaoYeYa/ye_announcement",
+        "authors": [
+          "XiaoYeYa"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Announce players when they join the game",
+          "zh_cn": "当玩家加入游戏时向其发公告"
+        }
+      },
+      "size": 1985,
+      "hash_md5": "6d71f0bdfa522520ee2e9a1d3f3c0d7e",
+      "hash_sha256": "45dabdbc84883874685d8e20d84ee80d026393063305f3d8bea53c0b59e0bf1c"
+    },
+    "161542550": {
+      "meta": {
+        "schema_version": 4,
+        "id": "ye_announcement",
+        "name": "Ye_announcement",
+        "version": "1.4.1",
+        "link": "https://github.com/XiaoYeYa/ye_announcement",
+        "authors": [
+          "XiaoYeYa"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Announce players when they join the game",
+          "zh_cn": "当玩家加入游戏时向其发公告"
+        }
+      },
+      "size": 2226,
+      "hash_md5": "a1e07f5fcfe210440a64666eb1228bd1",
+      "hash_sha256": "2772b08385b5a25bf46bd6595c9b77fd81434ed64e93e1f9453a163294b1f2fa"
+    }
+  },
+  "repos_info": {
+    "etag": "\"4390e5ec3cd933769f36a433812e64c0851e62f28061246feddb4564fa101011\"",
+    "data": "H4sIANVofWYC/62YbW/bNhCA/0rgr0siy3btzMDQdcuwFWjQokjRNcsgUBItsaZIjaTsOYL/+44vevOCJA79xYlI3sPj8Y68Yz0i6Wh5tlhchfPpYjE7PxsxnuLItI4+R+vs+uOH4o+vn7KR7kIF1u07HCHGeMUSXGCmdNeqojRq+v8kiH/D31DwyMBSkA1SetgKUYmhhW8ZFvBdjyjPCOsDtIBRJZzMfgzDq/F4qOAXo+Av0/fvqnd6LAI0ElElqO7NlSrlMghsq7zMiMqruJJYJJwp0Ocy4UVQBS387eanmcZkwoHsLLrpEFkSh7MMYMqgr3WuCnqoR0+gP3TFKeVbAETHTBK0Yh2DsOw1DBCrA65yDJaD/r0xAZHqSIWMSG3+gOEMRYIRBU6P4zghUEk7xr4OBC65xVWxTAQpFeHsSOUGoprFRYYYeUCvYIGoQWi9jhQ1IloWb8D/jhS2MnVgQijZ7a0OCSYbMPFrgAfCmqd2pQnhLzDSmJwoiOG0MHFpInb/cu9+LP5T3O6Dlr759frzfXW1SuP7ar4Yp/fVm3CewO9shqBlmk7uqxlezfvt1uHFuneGPL1sY/UntdK454z3NCUwCM1a450nShNq/dvEUQJximIukOLCkz1A1YNPM5XCqPCcwiDMIci5r1UNwlwDUlb4ZV7+DNKQZBtNrCpid+idgt6FEpKSZAxjT2CLqYP2dI4FYknuS24otfvP7j/KfLcf2eMxpjz2RMHIwGDqQObIXUwq8tdRgzVlyBV4dQKupnRcJbw9wCgrjAc0VLgjFXiDJ7ihBHXDpYhlFcp8wS2mSQIy9ICFv7aOY49EpgSJq1OciB2pl2XE/gp3oMPs5SRge4kaWxQFUd5mMJBhRJyErP33f3Td4H/aNpTBMW6vCtd1krvi0WlcEXEC79OUoP6hRCpvbFMigb1NoyFBHSNI2i4vL+scI5tOFFh4h7hlmHtOJDlkkX64uqFAGlUgZbL+lVE2hTKAcpR66ttiWg85SRox8IgSimBPqkEMoAWhWCrOvDes5QzwjCuyIsmL6qBnZhig6reSQMc5ovQc/FCRhIB/Q6np7pkYU+9LRjNgMajArhaiGHlfig2lDlzyneKS8t0JDqseyES5wEhB8YWURk7Gk9nFeHoxWdyOF8vZfDmb3pmHhzJ9fNQkXIbj5XR+Zz1P5geDZhdheBtOl9NwOQnvmgPdLQD+fVnJppdnLi+Z92R/7iSXz0kmFHzuFcViO/OGvbLUzHmBS8hCQJRBWJlq9kF/TebDtCQBMW05/bq0RQpy4oPGJp/RSnzaqdxeuzmSkT0FoF2JCru2UvDvOFEHrd0BNGjekjU5EDeJU1fbGmEikwoKAf140fXYqrWvaEGE4M0DmFu0O1nTniDgUEwHTbzEzK2mJYZ66STBTGLzPgcVqbZAYTemee27eX979sGN0nYt03/dwxn0PP925iaQQYPtnvdurpP57e/0+93XNw93t789jPTbA9JPVvqaWMNh0lmOyEjhoqTDt8Utjl0OE+kqiq9WkOT/UxExWLviJUm0Yf/6G742RJKYUKLMYssqBg3bNwJn5561nJ0av3EDUrxCFVWRrayM1RAxXlNiUZB2K+vR4HHl3I5TaNCko7uvriDWF7t+Sp0l9qaEL8rIhp3ia8yaN0yG1RbWMHCYfrLbbvv+P/14n9oXFgAA"
+  }
+}

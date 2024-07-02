@@ -1,0 +1,144 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"2fe57322d064339d78a52d5fe4211ba795179baefff2da77f4a4cb8add30f497\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIADPCK2YC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "160771305": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_mcsmcdr",
+        "name": "MirrorMcsmcdR",
+        "version": "1.1.0",
+        "link": "https://github.com/LazyAlienServer/MirrorMcsmcdR",
+        "authors": [
+          "tanh_Heng"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "xxhash>=3"
+        ],
+        "description": {
+          "en_us": "A mirror server manager MCDR plugin, based on MCSManager.",
+          "zh_cn": "一个基于MCSM的镜像服控制的MCDR插件"
+        }
+      },
+      "size": 19421,
+      "hash_md5": "f3e1267338f1eb76c3b49615653788ae",
+      "hash_sha256": "8e2677b21084cb4309acb975e91fc1bfaf3041231720b5bdf0ec2f3b1a50d813"
+    },
+    "160622686": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_mcsmcdr",
+        "name": "MirrorMcsmcdR",
+        "version": "1.0.1",
+        "link": "https://github.com/LazyAlienServer/MirrorMcsmcdR",
+        "authors": [
+          "tanh_Heng"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "xxhash>=3"
+        ],
+        "description": {
+          "en_us": "A mirror server manager MCDR plugin, based on MCSManager.",
+          "zh_cn": "一个基于MCSM的镜像服控制的MCDR插件"
+        }
+      },
+      "size": 18622,
+      "hash_md5": "a7461adaa804bca30a9486acdc5b0ad5",
+      "hash_sha256": "b8f337c1f0a1bd38bde99432af22d4a4fd76913f9ae4305b475362833e13f04d"
+    },
+    "144067743": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_mcsmcdr",
+        "name": "MirrorMcsmcdR",
+        "version": "0.1.0",
+        "link": "https://github.com/LazyAlienServer/MirrorMcsmcdR",
+        "authors": [
+          "tanh_Heng"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A mirror server manager MCDR plugin, based on MCSManager.",
+          "zh_cn": "一个基于MCSM的镜像服控制的MCDR插件"
+        }
+      },
+      "size": 5637,
+      "hash_md5": "b0bb3ad0016c75fb0256fca79e9fdbaf",
+      "hash_sha256": "e23ea0c103f69b85e4ef7df953f9814160aa9768e047898314c7a8b558e45b79"
+    },
+    "164700405": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_mcsmcdr",
+        "name": "MirrorMcsmcdR",
+        "version": "1.2.0",
+        "link": "https://github.com/LazyAlienServer/MirrorMcsmcdR",
+        "authors": [
+          "tanh_Heng"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "xxhash>=3"
+        ],
+        "description": {
+          "en_us": "A mirror server manager MCDR plugin, based on MCSManager.",
+          "zh_cn": "一个基于MCSM的镜像服控制的MCDR插件"
+        }
+      },
+      "size": 21610,
+      "hash_md5": "1518bdba5fe5c7975aa0db4e292cab2f",
+      "hash_sha256": "abcaaca3019ee640ffe1986cffcd63682ad7ee881d9c82a7f5f6e0ab8a115b2c"
+    },
+    "164705757": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_mcsmcdr",
+        "name": "MirrorMcsmcdR",
+        "version": "1.2.1",
+        "link": "https://github.com/LazyAlienServer/MirrorMcsmcdR",
+        "authors": [
+          "tanh_Heng"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "xxhash>=3"
+        ],
+        "description": {
+          "en_us": "A mirror server manager MCDR plugin, based on MCSManager.",
+          "zh_cn": "一个基于MCSM的镜像服控制的MCDR插件"
+        }
+      },
+      "size": 21601,
+      "hash_md5": "3929d7a30f557cf89a4fd565f3c6c931",
+      "hash_sha256": "c84274ea84cf241a845777eb4104a1a94a4f8368a3ef84835005235046a48a7b"
+    }
+  },
+  "repos_info": {
+    "etag": "\"a7e727d162238b6c69693c8b88efd8c6d5ae6c5f2929c54efcd4adaef85aee35\"",
+    "data": "H4sIAGelgmYC/+2Y3U/jOBDA/xXU1wOSfn9Iq707kHiBg2U5ncRxqpxk0njrxDnbaQ+i/u83dpy0KWi3W/zISyG25+fJZDzjmbJDo87sZNyfjibT/nh8etLJeARzM9q5ny8Xl7fXvweX/EtHT5EU9PgNFYKLm1CmYXSvJ+KCsXk9e01enn9jFLKvIFYgvFerc0FXROm1MWEScISvMxD4XHYYX9DsDYqWM0p1h71x1+9Ph21Vb42qF/dcnq31WoI7EDEvBNOziVK5nHleNSrPF1QlRVBIECHPFGTqPOSpV3gN/PPq00BjFsKCql300D4ypxZXMZApvTeUT1TK9tXZkXtDIuaM8TXi5kds6TXSWxTNFu9AoXTpcZUAWhWXbYx5qFTHqWckS/MHbWtgEu0sIDoKZ2VRQe1Jm9ITkPOKWgQyFDRXlGfHqdoiaCQXC5LRF3I8EgmGpLU8jmAkNQJW6L7HMSrR0jPnMXzeVBqFQFf4Fd7B3WNorHrOTWy43TGd+TpUwZxEqTnzJhpsfvqsvA4wETQfTCOeigH4vv7tkZuLy/unYtSPevo5Hj0VceyHT8VwHBM9MoGbi683+BzE06diOhzqOT+MUWbsR0/FJI4C/J0MQk0hY5zt9UdmB9ibHU7G9R7Dgd5jFIyG1WkUy53g930Tmw/941fWzB99rQNQnuFo4BKeXfA0ptS/9SkPMZiQgAuiuHCxQYtXth7NfgpI6mIfwzGBnHMnljYck9akLOCw83YI1+Bkc7izIg1stHa2xfZcEynpIgNwQW1YpdckmECQLEyc4GtUaf+rvIMsnDgHqeJ5wHjggofLPcMqPZkQm2rV3JG2mq5RbbiA2BVco7ZwJdz4h1FbGP+o0Zj2FfqKC3qN8soazki2KMjCCb1h1RedBXkB4UhvC6uia6YEDQpnwXWL27lMBY5U39L2b2ru6Hl91UC5lCo3VjGk9vFxh9d+/moLPeAoeteoVm6okpCdcpeF3tzL1lyuHFSjvPKXnKikNlVOBLixlCZ5ZUDwYnp+fl4mQKprTArCTWSoQCaXijDBa7MDZlmj8DaXEmXKodioHWF9xDiJXGjesBr/cXd9aflLXjDmAm04LXJKGUjFMzdfsoG19si4ojEND6oWD9mmxSs/S5qFcEoYO0VXVTSkeA6wVLcZLADmJn1pEL4WScGWiQyIm8Rbo0rPVggR5Iw/u4p2OzQTHAQQhaUpUZrb83uDM7975o8e/Mms78+Go0fT48mjV6tGZ/7kwZ/O/MFsOH2s/FIme4vGSHvo9mbd8azffaxzg30L/PcnCln9oiYtymQH8OtWfHaQeMjQI48tphsdVtl76vGEp5Dj7QflMzyDpu5/0U/dSa99Hwp5kWlz6u7emii8r+8N1hcprcrds0qq3J4QOa8CB44rUYAdywX/BqHaG90Grtbwmi7pnri5sW0rdSNMZVhgpaJ7QduZqvyuFfVNaNFGsFazb23DcrQjiDgSsNYQzyGzb9MiMhpCJsG0SbGgNg6Rs7P+ub/bm73648+TK8hAEHZyVwQodHJdCZ6s7FKZR//ZhubV3XUN+P5Rs5tLb3fLbfv15jIcPVyxb49/DV8eH5afOrqNQ3TbUOegJQakrWWpnCtIc9ZuAa8hsHeouS4DeRxjRfJvQUXLNornNNSG//sffFpRSQPKqDLGyM3bNs0Qa7Uda9qR2q+sR0UQk4KpeVUValBKqPGqHERKm09ddlp9qtNqnSKtIR0SdtUVtPLV7Txj1hIb05xI83l1QhVfQlb3mNHDFE+1+6IOihrVy81e6/GjX/7RL//ol3/0y/Fcg1pjyGtli91SvRnf/A8c86wI8BsAAA=="
+  }
+}

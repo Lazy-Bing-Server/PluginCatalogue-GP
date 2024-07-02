@@ -1,0 +1,75 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"25350ea2442005ea7f80f73bae1e747270b5f375a94535fa4dc4631e9f02ee9b\"",
+      "data": "H4sIAAR0g2YC/+1XbY/aOBD+KxGfC4mTQALSqWKPbbUnAd0V3TttWyHjeMF3TpxzHLaA+O83dsLLclv2ykG/NJ9QhplnxmP7GT+fVrVc8lrHqs2USrOObeOUNaZMzfJJg4jYljQVmf0Oc06T+pWkWM3sPksokfhR9bDC3Q834MQpzmhmI4RaQdsLw9obq4azjKpsfBF8uwDXafKUCxwdpims2flSrd4mOKZvOJ5QvtZ5Zyrmh1n3sv3XPApP7TlqNBuOBmURwG1T6ybmaiYkGFc1LqYs0dmeQW+j3LAdhKHTgu9ERHRsjLV+77Z1/8eAkz9v/OGI+MNe1zWbM4dC5L82x1g3XcszKolIFE2UWVJub3K8nf/ia5SpLHGKZGY7jm63hjzYg+/tpfZ/FJyLJ4Aaf3c6exu7A2LJ9GQgiF3ZQs0oNBOczNGYskydUpqJW5kf6KiByqC7kkYngJWRUNxTAnWtzPkvMPNJRiRLFRPJKWU+i9eAQk5xwpb4VECINzjmhp4Qb+I0AJ3DWT0FoQhc2alkc0wW66IaQtkcen8y6gGCBlWLlGqUj+Bu9oIpOsZRbG72I+YZXT+/wHfX47+eesPrFh9c9f33f19RYnDwdKwJSbvs6AO2fErVGOqJmWLZTP8b40wVuTb+h2Rk7QAibd5UAt+ppCVT7RmJXh2sCmvPmuu4Xt0J6sgZobDjBh0PPWioNJ9wKOFbfu2OEz7sxgR4fDrvLCpwgcdbXttDYXOPXkvLQaO7zxoddkezY02rF01rxCQyzTWDARyTnPPtVKIVc1fMXTH3T8Tc5a0bb7xxmnJGTH9tQRRV9UxBirg8Ico4lWQRFbBLbUMhCvT7L4IzYN63ROSJ5lE3QP5rHAzcWnBwnkZHvVzjNZHiCRY13ub6/6/aDVT5tLWPsuf6SzG6JgB+DrlQQu09q5csPRd4CbUHPhHRQqPWrQ9UPgoZ44RQi8WpFHCCPsvPSd3qC0ktGKaEZdTCSWTFhUGkVFpwXphaWLBV2EqBxIGYdFQNztN5R6IftF0f+f6F1NkG/vLi7CDThbWZ30DbWb3JXEmzasBXA/7nlmb9Hml9jO+zh9/fLR9Gt95wdOP0R7fOC/qspJCX9FlCv6rX1FkZfpo6Q3UnrKPWCAUd5HU851vqbN/P7zR/iDrz3WbgNR13x6+l4bDT14sh/41P3t/PiHt/RbwBj3q3i8GILAej7uI1oQb9q4RaxeMVj1c8fnahFoQeekmotRzkvEbHQLPNl4XagVfrRwg1YEn7KHteUKiVE+4yQq0E3wi1u2LxFmg1q/9r785yQcitv/wDmOy3gAwbAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAOyo8WUC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "116393185": {
+      "meta": {
+        "schema_version": 4,
+        "id": "minecraft_data_api",
+        "name": "Minecraft Data API",
+        "version": "1.5.0",
+        "link": "https://github.com/MCDReforged/MinecraftDataAPI",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b3",
+          "hjson",
+          "parse"
+        ],
+        "description": {
+          "en_us": "A MCDReforged api plugin to get player data information and more",
+          "zh_cn": "一个用获得玩家信息等数据的的 API"
+        }
+      },
+      "size": 18178,
+      "hash_md5": "d3f14cf8d1b3dbfda07a25414339a7f7",
+      "hash_sha256": "04268f7bb80a3ba385cd710de58c23cc0f2c5dc3846893706258383aad06ff33"
+    },
+    "42573502": {
+      "meta": {
+        "schema_version": 4,
+        "id": "minecraft_data_api",
+        "name": "Minecraft Data API",
+        "version": "1.4.1",
+        "link": "https://github.com/MCDReforged/MinecraftDataAPI",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-beta.3"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b3",
+          "hjson",
+          "parse"
+        ],
+        "description": {
+          "en_us": "A MCDReforged api plugin to get player data information and more",
+          "zh_cn": "一个用获得玩家信息等数据的的 API"
+        }
+      },
+      "size": 17831,
+      "hash_md5": "96812857446286357f0e0e4b67813636",
+      "hash_sha256": "3e0f8dd164859c07aa82df1d6a17940ceadcd66696827d31b6115a248b3758a2"
+    }
+  },
+  "repos_info": {
+    "etag": "\"6ae541c63b40f254044b35d7f2387f36068b6247e55eeab0cdf4b32157e854e9\"",
+    "data": "H4sIAI11dGYC/62YUW/bNhCA/4rg18WR7DipY6DoumULMjRpWqRbkWEwKOlsMaZIjaTsJUL++46kJEtO0LkeXxKLuvt4Oh6PvKsGNB3MgpPx+fRsPIkmR8GAixTmdnRwffHL5iP7jSWX50/k6+d1wldP1w+ryc3DVXR98entwIiTHKws5ZBIstAXRJP3t1fm3aJkbN4I/EoYAz78SQLRWfiaeCHpmmgjvCBMAY6IDQeJz9WAiSXlLzBGy5o6np6/mU6js137P539/vWGJQ9Xk493yeTjxfuxUSE4DZHzUjIjlWldqFkYulF1vKQ6K+NSgUwE18D1cSLysAybOd6t304MZSlrjpvMDO0SC1rTHAKRKnzxAZnO2a4tHa0X8gvBmNggav7d04Wt7hZE+fJgEOpWodAZoDNR6Nm6hSp9iGlWr7L/0KMWpdC7EtIDYLUmGmci6LkKJRTCMctYJZIWmgp+iJk9fQMUckk4fSKHAlHfcoyFh+hbPQOANcbqIQSnWIV2/yWPz86aBOgafX8wdYdgoPqxsKngC4rbtaAa5iTN7c62e/75O/fDq3kkhXaFDON9cP3zxWdYoKMhDdDyoGAlZpNAi2AJGp/II8ggRUBAOYrldi0DwtMgFxLcVpGrTl76tjfsiuxhp4H+l2f3YYUWZIgrePQCNJzK/G12YoLbncRCEi2klxl6wKr3aCfUQHIvE1mQTbNC+PG2BdmTR6kS9tsge4EtT7XbkZd5XOdUf3NsNyNRii45gBdsC6vC9iCIJeFJ5offsKr6l4sRsvQTIsRl4JiJ2AsQ5UMLq0KVkfpU1HNf9hq8YfXpEhbe6Ia1pWvpKUqs4dJGScPGg1pjxHjBN6ywauiM8GVJln7wLay5mizJE0hfltc0l2y5ljQu/eXaLa9zBYp9Gb/F7V6wPOLdcW69k+dUe3KMRfX3kUe+ifcXc5gBX9m8YfUOC3cs1a88nkuvTlaXSN7i1LDC6ocCBRpvFUSCJ2cZVFjFBC+ax8fHVQbEXW9ykJ6ShCPZ81UmGd5/fUCrhuUup7acWVjDU6xvmCCpF9tbWBtFHq81vagpSsa8sC2oh84pA6UF97ScLa03CReaLmiyV8231zw9YPVOUZ7AEaocYcRqmlDcD1hr12daDMzTgWZI+GEkh7roY0A8HcYNqwrrEiKFgolHb6mvg7N5wohhsUm0AY+j8WgYjYaj07vofDaKZpPo3vZnirQvNRlGZ8NxdDeazqLJ7HR676JTZV2hk2H0ZjiyQuPzWeSEzFFRfwb+/J4S1XyqPShV1iH8uNWf7aefMIzLgwvl1oo1/1/FdiZyKPBW1LTAFH0yv8/H/UtSIkpu/Dk6xfEN0XiZ3x1t7leGdPuoM3fcZ0TNXQbBcS1LqMcKKR4g0Tuj2xTWG97QFd1Rtxe5bUVvlalKSixkTGNn+8ZV6a2lI5tjpBRN/5BjCtqm+7SjiTwSs96QKIDXn9MiTdOV0QS4AtvqxLLbxkTBhifHUbfHennzJbgEDpKw4LaMUSn44BSDdS2qivSfuiF5efuhAXx7v9WTq7A7ZbeLmpzdXbKH+z9On+7vVm8HpklDTPvPnEcrzEtb11I115AXrN/G3UBcX6vmpkwUiwVWK3+XVPZ8o0VBE+P5P//CpzVVNKaMauuMwn5t2zRpFqLjztqRTWg1QZXCgpRMz13ZaFA5Udq1nwqQOW3Xuxr0OlFmmQnlmvSGTGromiypC9jte8ZqbzzbLkZezN0+1WIFvNkkHPQGv6MfVd1refNi/PwvxEIYV6IXAAA="
+  }
+}
